@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tarun-sheoran-tss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-sheoran-tss" height="30" width="40" /></a>
 <a href="https://kaggle.com/tsswantsdata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tsswantsdata" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tsssniper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tsssniper" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TSSsniper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tsssniper" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/csc_2021b0121037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="csc_2021b0121037" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tarun_sheoran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarun_sheoran" height="30" width="40" /></a>
 </p>
