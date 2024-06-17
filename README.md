@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tss-sniper&label=Profile%20views&color=0e75b6&style=flat" alt="tss-sniper" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tss-sniper" alt="tss-sniper" /></a> </p>
-
 - 🌱 I’m currently learning **MLOps, ML application Deployment and GenAI.**
 
 - 💬 Ask me about **Python, Data Science, AI/ML and GenAI**
@@ -19,7 +17,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/tsswantsdata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tsswantsdata" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@tsssniper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tsssniper" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/csc_2021b0121037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/csc_2021b0121037" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tarun_sheoran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarun_sheoran" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/tarun_sheoran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tarun_sheoran/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tss-sniper&show_icons=true&locale=en&layout=compact" alt="tss-sniper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tss-sniper&show_icons=true&locale=en" alt="tss-sniper" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tss-sniper&" alt="tss-sniper" /></p>
