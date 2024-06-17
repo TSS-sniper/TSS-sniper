@@ -7,6 +7,7 @@
 <br><p align="center"> <img src="https://komarev.com/ghpvc/?username=tss-sniper&label=Profile%20views&color=000000&style=flat" alt="tss-sniper" /> </p>
 
 <h3 align="left">🐱‍👤 About me:</h3>
+
 - ⚡ I’m currently learning **MLOps, ML application Deployment and GenAI.**
 
 - 💬 Ask me about **Python, Data Science, AI/ML and GenAI.**
