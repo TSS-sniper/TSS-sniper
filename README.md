@@ -8,7 +8,7 @@
 
 <h3 align="left">🐱‍👤 About me:</h3>
 
-- ⚡ I’m currently learning **MLOps, ML application Deployment and GenAI.**
+- ⚡ I’m currently learning **Django,MLOps, ML application Deployment and GenAI.**
 
 - 💬 Ask me about **Python, Data Science, AI/ML and GenAI.**
 
