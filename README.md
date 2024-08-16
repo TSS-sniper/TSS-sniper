@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tarunsinghsheoran9703@gmail.com**.
 
-- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1HIdDfzn2WCDyQ_kkmPapEdKUu_i1IB_v/view?usp=drive_link)
+- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1rKevGLESgzhvUCSgCsuwAMawE2sI2H1H/view?usp=sharing)
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
