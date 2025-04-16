@@ -2,19 +2,19 @@
 <h3 align="center">A Data Science and AI/ML Enthusiast from India.</h3>
 
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg4cmY4d3NtN2phMmcxbTdjOHhoNDUydmcxOHRmbXhqMG1ya3JqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" align="center" style="width: 100%" />
+<!--<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg4cmY4d3NtN2phMmcxbTdjOHhoNDUydmcxOHRmbXhqMG1ya3JqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" align="center" style="width: 100%" />-->
 </div>
 <br><p align="center"> <img src="https://komarev.com/ghpvc/?username=tss-sniper&label=Profile%20views&color=000000&style=flat" alt="tss-sniper" /> </p>
 
 <h3 align="left">🐱‍👤 About me:</h3>
 
-- ⚡ I’m currently learning **Django, MLOps, ML application Deployment and GenAI.**
+- ⚡ I’m currently learning **Java, Django, MLOps and GenAI.**
 
 - 💬 Ask me about **Python, Data Science, AI/ML and GenAI.**
 
 - 📫 How to reach me **tarunsinghsheoran9703@gmail.com**.
 
-- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1gkrtoF_qsCOSQJaGqx1zG9a0LsoY7Epf/view?usp=sharing)
+- 📄 Know about my experiences [**Resume Link**](https://drive.google.com/file/d/1dq3OF6wu_W70sG44u73twBy3bZ3ENEiQ/view?usp=sharing)
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
