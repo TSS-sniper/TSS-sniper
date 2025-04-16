@@ -4,7 +4,7 @@
 <div align="center">
 <!--<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg4cmY4d3NtN2phMmcxbTdjOHhoNDUydmcxOHRmbXhqMG1ya3JqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif" align="center" style="width: 100%" />-->
 </div>
-<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=tss-sniper&label=Profile%20views&color=000000&style=flat" alt="tss-sniper" /> </p>
+<!--<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=tss-sniper&label=Profile%20views&color=000000&style=flat" alt="tss-sniper" /> </p>-->
 
 <h3 align="left">🐱‍👤 About me:</h3>
 
@@ -30,5 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tss-sniper&show_icons=true&theme=dark&locale=en&layout=compact" alt="tss-sniper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tss-sniper&show_icons=true&theme=dark&locale=en" alt="tss-sniper" /></p>
+
+<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=tss-sniper&label=Profile%20views&color=000000&style=flat" alt="tss-sniper" /> </p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tss-sniper&theme=dark" alt="tss-sniper" /></p>-->
